@@ -1,0 +1,10 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370552190000 3657 0f95d465f1ec6eefd1d95519b04995e3481a67c0 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/drawable/btn_unpressed.png
+1370552190000 807 d6d53afa1dae74abb3875f01cc96c4a211f537a4 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/values/values.xml
+1370552190000 3616 a2e84ba1489a26fb0fd847562788b761cb175e00 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/drawable/btn_pressed.png
+1370552190000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/drawable/ic_launcher.png
+1370550549000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/menu/main.xml
+1370553590000 2148 a5698abae06726f92dec38fea8ff975b1bf14a38 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/layout/main.xml
+1370552190000 395 39410b35d41f0811a0e668b297ec6b433f98ee72 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/build/res/all/debug/drawable/btn_selector.xml

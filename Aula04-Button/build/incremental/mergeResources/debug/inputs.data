@@ -1,0 +1,12 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370550765000 257 a4555d989e32bc6ae40551978c16a457ecd601a1 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/values/strings.xml
+1370551859000 3616 a2e84ba1489a26fb0fd847562788b761cb175e00 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/drawable/btn_pressed.png
+1370550529000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/drawable/ic_launcher.png
+1370553585000 2148 a5698abae06726f92dec38fea8ff975b1bf14a38 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/layout/main.xml
+1370550530000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/values/dimens.xml
+1370552137000 395 39410b35d41f0811a0e668b297ec6b433f98ee72 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/drawable/btn_selector.xml
+1370551859000 3657 0f95d465f1ec6eefd1d95519b04995e3481a67c0 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/drawable/btn_unpressed.png
+1370550529000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/values/styles.xml
+1370550530000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/natanaelfonseca/AndroidStudioProjects/Aula04-ButtonProject/Aula04-Button/src/main/res/menu/main.xml
